@@ -8,7 +8,7 @@ The harder you work, the more likely you can reeach the goal.
     
   <div align=center>
     
-  ## :books:skills:books:
+  ## skills
 [![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)](github.com/HongSJae/todolist)
 [![css3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white)](github.com/HongSJae/todolist)
 <img src="https://img.shields.io/badge/C/C++-A8B9CC?style=yellow&logo=C&logoColor=white"/>
@@ -18,7 +18,7 @@ The harder you work, the more likely you can reeach the goal.
     <img src="https://img.shields.io/badge/React Router-CA4245?style/badge&logo=React Router&logoColor=white">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style/badge&logo=TypeScript&logoColor=white">
 <br><br>
-## :hammer:tools:hammer:
+## tools
   <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitKraken-179287?style=flat-square&logo=GitKraken&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style/badge&logo=GitHub&logoColor=white">
@@ -27,7 +27,7 @@ The harder you work, the more likely you can reeach the goal.
   <img src="https://img.shields.io/badge/Postman-FF6C37?style/badge&logo=Postman&logoColor=white">
   <br><br>    
     
-## :pencil2: Learning :pencil2:
+## Learning
   [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)](github.com/jikwan0327/todolist) 
   <img src="https://img.shields.io/badge/React Router-CA4245?style/badge&logo=React Router&logoColor=white">
   [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)](github.com/HongSJae/todolist)
@@ -38,7 +38,7 @@ The harder you work, the more likely you can reeach the goal.
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style/badge&logo=TypeScript&logoColor=white">
   <img src="https://img.shields.io/badge/Recoil-0075EB?style/badge&logo=Revolut&logoColor=white">
     
-## :smile: My SNS :smile:
+## My SNS
 <a href="https://www.instagram.com/xu_.one/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style/badge&logo=Instagram&logoColor=white">
 <a href="https://www.facebook.com/profile.php?id=100017360131910" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style/badge&logo=Facebook&logoColor=white"></a>
 <a href="mailto:wndnjs060319@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=wndnjs0160319@gmail.com"/></a>
