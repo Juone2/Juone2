@@ -1,6 +1,4 @@
 ### Hi there :wave:
-프론트엔드 공부하고 있는 김주원 입니다. 성실한 웹 개발자가 되겠습니다.<br>
-The harder you work, the more likely you can reeach the goal.
 
 <div align=center>
   
