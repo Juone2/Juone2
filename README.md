@@ -27,10 +27,7 @@
     
 ## Learning
   <img src="https://img.shields.io/badge/React Router-CA4245?style/badge&logo=React Router&logoColor=white"/>
-  [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)](github.com/HongSJae/todolist)
-  [![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white)](github.com/HongSJae/todolist)
    <br />
-  [![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white)](github.com/jikwan0327/todolist)
   <img src="https://img.shields.io/badge/C/C++-A8B9CC?style=yellow&logo=C&logoColor=white"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style/badge&logo=TypeScript&logoColor=white">
   <img src="https://img.shields.io/badge/Recoil-0075EB?style/badge&logo=Revolut&logoColor=white">
