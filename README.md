@@ -26,9 +26,8 @@
   <br><br>    
     
 ## Learning
-  <img src="https://img.shields.io/badge/React Router-CA4245?style/badge&logo=React Router&logoColor=white"/>
-   <br />
-  <img src="https://img.shields.io/badge/C/C++-A8B9CC?style=yellow&logo=C&logoColor=white"/>
+[![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white)](github.com/HongSJae/todolist)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)](github.com/HongSJae/todolist)
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style/badge&logo=TypeScript&logoColor=white">
   <img src="https://img.shields.io/badge/Recoil-0075EB?style/badge&logo=Revolut&logoColor=white">
     
