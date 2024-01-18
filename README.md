@@ -30,7 +30,7 @@
   <img src="https://img.shields.io/badge/Recoil-0075EB?style/badge&logo=Revolut&logoColor=white">
     
 ## My SNS
-<a href="https://www.instagram.com/xu_.one/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style/badge&logo=Instagram&logoColor=white">
+<a href="https://www.instagram.com/ux_w0n/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style/badge&logo=Instagram&logoColor=white">
 <a href="https://www.facebook.com/profile.php?id=100017360131910" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style/badge&logo=Facebook&logoColor=white"></a>
 <a href="mailto:wndnjs060319@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=wndnjs0160319@gmail.com"/></a>
  <a href="https://velog.io/@juwon1207"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@juwon1207"/></a>
