@@ -1,4 +1,4 @@
 ## My Portfolio 😁
 https://juwon-portfolio.site
 
-중요한 건 꺾이지 않는 마음.
+중요한 건 꺾여도 그냥 하는 마음.
