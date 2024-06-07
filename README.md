@@ -4,7 +4,7 @@
 - I'm in Daedeok Software Meister High School
 ## Contact me 🐰
 <a href="https://juwon-portfolio.site/"><img src="https://img.shields.io/badge/Portfolio-fff?style=flat-square&logo=Notion&logoColor=black"/>
-<a href="https://www.instagram.com/j.1_wn/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.instagram.com/xu_w0n/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:teuseuwin@gmail.com)](mailto:teuseuwin@gmail.com)
 ## Skills 🔍
 <a href="./"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/></a>
