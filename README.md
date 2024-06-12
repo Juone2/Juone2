@@ -15,5 +15,3 @@
 <a href="./"><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>
 <a href="./"><img src="https://img.shields.io/badge/React Query-FF4154?style=flat-square&logo=React Query&logoColor=white"/></a>
 <a href="./"><img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/></a>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Juone2&layout=compact&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)
